@@ -13,6 +13,11 @@ nbactions.xml
 /nbbuild/
 /nbdist/
 
+#Sources
+#https://github.com/github/gitignore/blob/main/Global/NetBeans.gitignore
+#https://stackoverflow.com/questions/2586097/what-should-be-in-gitignore-file-for-a-netbeans-java-project
+#ChatGPT
+
 #Class Files
 .class
 
