@@ -1,0 +1,20 @@
+#IDE Specific
+#NetBeans Specific
+nbactions.xml
+nb-configuration.xml
+nb-ide-version
+nbactions.xml
+/nb-private/
+/nbproject/private/
+/nbproject/
+/.build/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+
+#Class Files
+.class
+
+#Package Files
+*.jar
